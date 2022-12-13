@@ -1,2 +1,2 @@
 # Authentication-Django
-Authentication System (Login) made in Django, SQLite
+Authentication System (Login) made in Django, SQLite, HTML, Bootsrap
